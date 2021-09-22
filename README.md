@@ -2,6 +2,10 @@
 
 React Three Fiber を使用して、[Adobe Mixamo](https://www.mixamo.com)の 3D モデルを読み込めるか試したアプリケーションです。
 
+https://nemutas-mixamo-animation.web.app/
+
+![image](https://user-images.githubusercontent.com/46724121/134326563-9e8be055-a51a-48d9-83c0-0a833c73117e.png)
+
 # Technology
 
 - React
