@@ -16,5 +16,5 @@ export const modelState = proxy<Model>({
 		body: '293534_B2BFC5_738289_8A9AA7',
 		joint: '3A2412_A78B5F_705434_836C47'
 	},
-	isPaused: true
+	isPaused: false
 })
